@@ -1,6 +1,4 @@
-# WooCommerce-Ask-a-Product-Question-and-FAQ-Plugin
-
-Website: <a href="https://www.fmeaddons.com/woocommerce-plugins-extensions/ask-product-questions-faqs.html">WooCommerce Ask a Question Plugin By FMEAddons</a>
+WooCommerce-Ask-a-Product-Question-and-FAQ-Plugin
 
 FMA's WooCommerce ask a product question plugin allow the users of your website to ask product related questions from you. This question will appear in FAQ section, Both admin and users can answer that question. If users are satisfied with your answer then they can also like your answer which means are more probably to buy your products. 
 
@@ -13,3 +11,5 @@ Best Features of FAQ plugin for WooCommerce by FMEAddons
  - Like/Unlike button on question and answers 
  - Email notifications 
  - Google reCaptcha in ask a question form 
+ 
+More Details: <a href="https://www.fmeaddons.com/woocommerce-plugins-extensions/ask-product-questions-faqs.html">WooCommerce Ask a Question Plugin By FMEAddons</a>
